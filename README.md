@@ -1,3 +1,7 @@
+When exploring the world of CMS or so called "Homepagebaukasten" (an awful german word coining) as a teenager on my way to create my first website I realized that they all did not really fit the bill for me. So I decided to learn how to code and build my own site without further ado.
+
+So then, because coding is fun I went on and after school I started to become a real programmer. Today I participate in some awesome projects.
+
 [![shaedrich's github stats](https://github-readme-stats.vercel.app/api?username=shaedrich&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaedrich)](https://github.com/anuraghazra/github-readme-stats)
 
