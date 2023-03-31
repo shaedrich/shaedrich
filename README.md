@@ -4,10 +4,12 @@ So then, because coding is fun I went on and after school I started to become a 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shaedrich)
 
-**IDE:** ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)\
-**Browser:** ![Brave](https://img.shields.io/static/v1?style=flat-square&logo=Brave&label=&message=Brave&color=white) ![Tor Browser](https://img.shields.io/static/v1?style=flat-square&logo=Tor%20Browser&label=&message=Tor%20Browser&color=blueviolet)\
-**Apps from:** ![F-Droid](https://img.shields.io/static/v1?style=flat-square&logo=F-Droid&label=&message=F-Droid&color=black)\
-**OS:** ![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black)
+|||
+|-|-|
+| **IDE:** | ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code) |
+| **Browser:** | ![Brave](https://img.shields.io/static/v1?style=flat-square&logo=Brave&label=&message=Brave&color=white) ![Tor Browser](https://img.shields.io/static/v1?style=flat-square&logo=Tor%20Browser&label=&message=Tor%20Browser&color=blueviolet) |
+| **Apps from:** | ![F-Droid](https://img.shields.io/static/v1?style=flat-square&logo=F-Droid&label=&message=F-Droid&color=black) |
+| **OS:** | ![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black) |
 
 # Tech stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&label=Frontend)
