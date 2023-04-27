@@ -4,6 +4,11 @@ So then, because coding is fun I went on and after school I started to become a 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shaedrich)
 
+# :technologist: About me
+I am
+* 💻 a full-stack web developer
+* 🌐 from Germany
+
 |||
 |-|-|
 | **IDE:** | [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) |
@@ -12,6 +17,10 @@ So then, because coding is fun I went on and after school I started to become a 
 | **OS:** | [![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black)](https://manjaro.org/) |
 
 # Tech stack
+<!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;-->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&label=Frontend)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=orange&label=Frontend)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&label=Frontend)
@@ -43,9 +52,11 @@ So then, because coding is fun I went on and after school I started to become a 
 ![Apache](https://img.shields.io/badge/Tools-Apache-informational?style=flat-square&logo=apache&logoColor=white&color=D22128&label=Server)
 ![Insomnia](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat-square&logo=insomnia&logoColor=white&color=5849BE&label=API)
 
-
+# 📈 Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shaedrich&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 [![shaedrich's github stats](https://github-readme-stats.vercel.app/api?username=shaedrich&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaedrich)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=shaedrich)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **shaedrich/shaedrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
