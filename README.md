@@ -16,7 +16,7 @@ I am
 | **Apps from:** | [![F-Droid](https://img.shields.io/static/v1?style=flat-square&logo=F-Droid&label=&message=F-Droid&color=black)](https://f-droid.org/) |
 | **OS:** | [![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black)](https://manjaro.org/) |
 
-# Tech stack
+# 🛠️ Tech stack
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
