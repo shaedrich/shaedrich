@@ -29,8 +29,10 @@ I am
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&label=Frontend)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&label=Frontend)
 ![CoffeeScript](https://img.shields.io/static/v1?style=flat-square&logo=CoffeeScript&label=Frontend&message=CoffeeScript&color=black)
+![CoffeeScript](https://img.shields.io/static/v1?style=flat-square&logo=Backbone&label=Frontend&message=Backbone.js&color=blue)
 ![Cytoscape.js](https://img.shields.io/static/v1?style=flat-square&logo=Cytoscape.js&label=Frontend&message=Cytoscape.js&color=black)
 ![FontAwesome](https://img.shields.io/static/v1?style=flat-square&logo=FontAwesome&label=Icon%20Font&message=FontAwesome&color=blue)
+![Vue.js](https://img.shields.io/static/v1?style=flat-square&logo=vuedotjs&label=Framework&message=Vue.js&color=42b883)
 
 ## 📇 Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&label=Database)
@@ -42,10 +44,11 @@ I am
 ## Backend
 ![Lua](https://img.shields.io/static/v1?style=flat-square&logo=Lua&label=Server-side&message=Lua&color=blueviolet)
 ![Ruby](https://img.shields.io/static/v1?style=flat-square&logo=Ruby&label=Server-side&message=Ruby&color=red)
-![Laravel](https://img.shields.io/static/v1?style=flat-square&logo=Laravel&label=&message=Laravel&color=white)
+![Laravel](https://img.shields.io/static/v1?style=flat-square&logo=Laravel&label=Framework&message=Laravel&color=red&labelColor=white)
 ![nginx](https://img.shields.io/static/v1?style=flat-square&logo=nginx&label=Server&message=nginx&color=green&logoColor=green)
 ![Apache](https://img.shields.io/badge/Tools-Apache-informational?style=flat-square&logo=apache&logoColor=white&color=D22128&label=Server)
 ![Composer](https://img.shields.io/static/v1?style=flat-square&logo=Composer&message=Composer&color=brown&labelColor=black&label=Package%20manager)
+![PHP](https://img.shields.io/static/v1?style=flat-square&logo=PHP&message=PHP&color=7A86B8&labelColor=333&label=Server-side)
 
 ## Miscellaneous
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&label=Container)
@@ -61,6 +64,7 @@ I am
 ![Insomnia](https://img.shields.io/badge/Tools-Insomnia-informational?style=flat-square&logo=insomnia&logoColor=white&color=5849BE&label=API)
 
 # 📈 Stats
+[![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaedrich)](https://github-profile-summary-cards.vercel.app)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shaedrich&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 [![shaedrich's github stats](https://github-readme-stats.vercel.app/api?username=shaedrich&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaedrich)](https://github.com/anuraghazra/github-readme-stats)
