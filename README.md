@@ -14,7 +14,7 @@ I am
 | **IDE:** | [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/) |
 | **Browser:** | [![Brave](https://img.shields.io/static/v1?style=flat-square&logo=Brave&label=&message=Brave&color=white)](https://brave.com/) [![Tor Browser](https://img.shields.io/static/v1?style=flat-square&logo=Tor%20Browser&label=&message=Tor%20Browser&color=blueviolet)](https://www.torproject.org/) |
 | **Apps from:** | [![F-Droid](https://img.shields.io/static/v1?style=flat-square&logo=F-Droid&label=&message=F-Droid&color=black)](https://f-droid.org/) |
-| **OS:** | [![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black)](https://manjaro.org/) |
+| **OS:** | [![Debian](https://img.shields.io/static/v1?style=flat-square&logo=Debian&label=&message=Debian&color=black)](https://manjaro.org/) [![Manjaro](https://img.shields.io/static/v1?style=flat-square&logo=Manjaro&label=&message=Manjaro&color=black)](https://manjaro.org/) |
 
 # 🛠️ Tech stack
 <!--<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
