@@ -2,6 +2,8 @@
 |:-:|
 | [![This is my #GitHubUnwrapped](https://github.com/shaedrich/shaedrich/assets/11225821/377c7d2c-e6c6-4467-8238-81824c629ec4)](https://githubunwrapped.com/shaedrich) |
 
+[![githubWorth](https://github.com/shaedrich/shaedrich/assets/11225821/d032367f-f98f-41c2-bf53-586c6168505c)](https://gitestimate.vercel.app/)
+
 When exploring the world of CMS or so called "Homepagebaukasten" (an awful german word coining) as a teenager on my way to create my first website I realized that they all did not really fit the bill for me. So I decided to learn how to code and build my own site without further ado.
 
 So then, because coding is fun I went on and after school I started to become a real programmer. Today I participate in some awesome projects.
